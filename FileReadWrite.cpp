@@ -3,9 +3,6 @@
 
 //(Copyright) Justin McIntosh
 
-#include "pch.h"
-#include "framework.h"
-
 #include <fstream>
 #include <utility>
 
